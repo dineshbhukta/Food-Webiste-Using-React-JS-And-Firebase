@@ -1,0 +1,54 @@
+{
+  "register": [
+    {
+      "id": 1,
+      "username": "dinesh",
+      "email": "dinesah@gmail.com",
+      "password": 123456
+    },
+    {
+      "username": "dinesh",
+      "email": "dinesh@gmail.com",
+      "password": "243567yui",
+      "id": 2
+    },
+    {
+      "username": "Dinesh",
+      "email": "din@gmail.com",
+      "password": "987654",
+      "id": 3
+    },
+    {
+      "username": "Sonu",
+      "email": "sonu@gmail.com",
+      "password": "sonu546",
+      "id": 4
+    },
+    {
+      "username": "sadgh",
+      "email": "asfdg",
+      "password": "asfdgh",
+      "id": 5
+    },
+    {
+      "username": "asdfg",
+      "email": "sadfgh",
+      "password": "adsfgh",
+      "id": 6
+    },
+    {
+      "username": "Sachida",
+      "email": "sachi@gamil.com",
+      "mobile": "7766336651",
+      "password": "sachi@134",
+      "id": 7
+    },
+    {
+      "username": "Rajesh Samal",
+      "email": "rajesh@gmail.com",
+      "mobile": "9966442277",
+      "password": "Rajesh@123",
+      "id": 8
+    }
+  ]
+}
